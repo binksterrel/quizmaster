@@ -3,7 +3,7 @@
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'quizmaster');
 define('DB_USER', 'root');
-define('DB_PASS', 'Terrel21');
+define('DB_PASS', '');
 
 // Configuration de l'application
 define('APP_NAME', 'QuizMaster');
